@@ -7,7 +7,7 @@ Herhangi bir koordinat düzlemi düşünelim,
 
 bu koordinat düzleminde kareli olarak gösterilen kısmı, gerçek dünyada harita gibi düşünebiliriz.
 Bu harita üzerinde herhangi bir konuma yerleştirilen aracın, verilen komutlara göre hareketini inceleyelim,
-bu aracın konumuyla beraber, Kuzey, Güney, Doğu veya Batıya dönük olup olmadığınında bilinmesi gerekir,
+bu aracın konumuyla beraber, Kuzey, Güney, Doğu veya Batıya dönük olma durumunun bilinmesi gerekir,
 
 ![2](https://user-images.githubusercontent.com/49997690/108754026-7bd31380-7556-11eb-872d-9e4bb340c053.PNG)
 
