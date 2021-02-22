@@ -10,12 +10,14 @@ Bu harita üzerinde herhangi bir konuma yerleştirilen aracın, verilen komutlar
 bu aracın konumuyla beraber, Kuzey, Güney, Doğu veya Batıya dönük olup olmadığınında bilinmesi gerekir,
 
 ![2](https://user-images.githubusercontent.com/49997690/108754026-7bd31380-7556-11eb-872d-9e4bb340c053.PNG)
+
 Araca verdiğimiz X ve Y koordinatlarıyla beraber yönünüde belirliyoruz.
 
 koordinat düzleminde aracı düşündüğümüzde aşağıdaki gibi bir durum oluşur.
 
 ![3](https://user-images.githubusercontent.com/49997690/108754028-7d9cd700-7556-11eb-838f-0b4b39e4458d.png)
-çemberle gösterdiğim yerde araç, yanındaki kırmızı ok işareti ise yönünü gösterir.
+
+çember aracı gösteriyor. Yanındaki kırmızı ok işareti ise yönünü gösterir.
 şimdi "R" (Right) , "L" (Left) veya "M" (Move) komutlarıyla aracımızı hareket ettirelim,
 
 ![4](https://user-images.githubusercontent.com/49997690/108754035-7f669a80-7556-11eb-9bd9-1eb3ece540af.PNG)
@@ -33,5 +35,7 @@ Bu komuta göre aracımız, Sağa doğru dönmesi gerekir. İlk başta Kuzeye ba
 aracın yeni konumu, (5,4) ve yönü Doğu'dur.
 
 şimdide verdiğimiz tüm komutlarla aracın son konumuna bakalım,
+
+![8](https://user-images.githubusercontent.com/49997690/108754061-87263f00-7556-11eb-9c91-fc05f28426c4.PNG)
 
 ![9](https://user-images.githubusercontent.com/49997690/108754068-88f00280-7556-11eb-9003-7e02b7ba576d.png)
