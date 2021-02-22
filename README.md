@@ -39,3 +39,10 @@ aracın yeni konumu, (5,4) ve yönü Doğu'dur.
 ![8](https://user-images.githubusercontent.com/49997690/108754061-87263f00-7556-11eb-9c91-fc05f28426c4.PNG)
 
 ![9](https://user-images.githubusercontent.com/49997690/108754068-88f00280-7556-11eb-9003-7e02b7ba576d.png)
+
+aracımınız en son koordinatları ve yönü aşağıdaki gibidir.
+
+![10](https://user-images.githubusercontent.com/49997690/108755547-75de3200-7558-11eb-9dea-a657d93191f4.PNG)
+
+
+Ozan Aydoğan Kocaeli Üniversitesi
